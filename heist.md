@@ -1,50 +1,98 @@
-# 抢劫题材剧本
+# 抢劫盗窃类剧本（12秒）
 
-## 001
-**改编自**：经典犯罪悬疑IP  
-**故事原型**：一个由专业犯罪策划者组建的盗窃团队，计划在拉斯维加斯的三家顶级赌场同时进行史上最大规模的抢劫行动。团队成员各怀绝技，包括爆破专家、黑客高手、魔术师、特技演员等11人。他们必须在严密的安防系统、武装保安、以及赌场老板的监控下完成这个看似不可能的任务。故事充满精密策划、团队协作与惊险反转。该IP在2025年仍是犯罪片的标杆之作。
-
-**12秒改编**：高清摄像机跟拍：拉斯维加斯夜景，霓虹灯闪烁的赌场外观，镜头切入赌场内部金库大门缓缓打开，保险柜里堆满现金和筹码，专业盗窃团队成员穿着西装戴着耳机悄然出现在监控死角，黑客手指飞快敲击笔记本电脑屏幕显示监控系统被入侵，团队领袖对着耳麦下达指令，所有人同步行动，镜头快速切换显示多线并进的抢劫画面。
-
-**AI视频Prompt**：Cinematic heist thriller scene shot on RED camera with Cooke S4 lenses. Night time Las Vegas casino exterior with neon lights reflecting off glass facades, slow crane shot moving through crowded gaming floor. Professional thieves in tailored suits navigating between slot machines, earpieces visible, moving with calculated precision. Cut to underground vault: massive steel door with electronic locks, surveillance cameras in corners, rows of safety deposit boxes. Hacker's hands typing rapidly on laptop, code scrolling across screen, security feed showing grid of monitors going dark one by one. Team leader in sharp suit giving silent hand signals, crew members taking positions. Multiple screens showing synchronized heist action: one picking locks, another bypassing laser grid, third disabling alarm system. Dramatic lighting with practical casino lights and vault fluorescents, shallow depth of field, steady gimbal movements, 24fps, 2.39:1 aspect ratio, professional color grading with teal and orange tones.
+> **内容来源**：基于好莱坞经典抢劫电影IP改编，策划精密的盗窃行动与团队协作
 
 ---
 
-## 002
-**改编自**：英国经典银行劫案IP  
-**故事原型**：一群业余劫匪租下银行隔壁的一家餐厅作为掩护，计划通过地下挖掘隧道进入银行金库。团队成员看似普通但各有所长，他们必须在不被发现的情况下日复一日地挖掘隧道，同时应对各种意外状况。当他们终于进入金库时却发现了更大的秘密，牵扯出政府高层的腐败丑闻。该IP根据真实事件改编，在2025年依然受到关注。
+## 剧本1：十一罗汉
 
-**12秒改编**：手持摄像机记录风格：伦敦街景阴云密布，破旧的餐厅店面，镜头推进显示地下室入口，昏暗的地下空间里几个穿着工作服的普通人在挖掘狭窄隧道，泥土不断被清理出来装进桶里，墙壁上挂着手绘的银行金库结构图，有人在监听银行内的声音，突然听到警报声所有人屏息静止，虚惊一场后继续工作，镜头推进显示他们终于挖通金库墙壁看到里面闪烁的金属光泽。
+**改编自**：《十一罗汉》系列 - 好莱坞明星云集抢劫经典，2025年仍是类型片标杆
 
-**AI视频Prompt**：Gritty British crime thriller shot on handheld ARRI ALEXA with vintage lenses for authentic 70s feel. Overcast London street, grimy restaurant storefront with "Closed for Renovation" sign. Interior: cramped basement with single hanging lightbulb, men in dirty work clothes and overalls digging narrow tunnel, faces covered in mud and sweat. Close-ups of hands with shovels breaking through concrete, buckets being passed back in assembly line. Blueprints of bank vault taped to wall, handwritten notes and measurements. One man pressing stethoscope against wall listening to bank sounds above. Sudden alarm sound - everyone freezes in terror, flashlights illuminating frightened faces, collective exhale of relief. Final breakthrough shot: pickaxe puncturing vault wall, beam of fluorescent light streaming through hole, gleam of metal safety deposit boxes visible beyond. Desaturated color palette with emphasis on browns and grays, naturalistic lighting, claustrophobic framing, documentary-style cinematography.
+**故事原型**：前科犯丹尼·欧逊刚出狱就策划史上最大胆的拉斯维加斯赌场抢劫案，目标是三家顶级赌场的地下金库，一夜偷走1.5亿美元。他召集十一位各怀绝技的专家组成团队，包括扒手、爆破专家、黑客、替身演员等。影片以精妙策划、幽默对话和惊险执行著称，探讨友谊、复仇与救赎。该系列在2025年仍是抢劫片的教科书级作品。
 
----
+**12秒改编**：
+- **0-3秒**：拉斯维加斯赌场灯火辉煌，丹尼·欧逊穿着西装站在赌桌前观察监控布局，与团队成员在秘密仓库展开金库模型，十一个人各就各位讨论计划细节
+- **3-6秒**：行动当晚，扒手潜入赌场偷走安保卡，黑客入侵监控系统屏幕显示"系统故障"，杂技演员藏在运钞车里混入金库，各个岗位精准配合倒计时开始
+- **6-9秒**：爆破专家在通风管道引爆EMP装置瞬间断电，金库大门失去电力，团队成员用液压工具撬开门锁，数百万现金堆积如山，快速装袋转移
+- **9-12秒**：安保恢复供电发现金库被盗立即封锁赌场，但丹尼团队早已乔装成SWAT特警混在人群中大摇大摆走出正门，最后在喷泉前看着赌场灯光微笑，完美收官
 
-## 003
-**改编自**：法国经典犯罪IP  
-**故事原型**：一个刚出狱的老牌大盗接到最后一次任务：抢劫巴黎一家珠宝店的稀世钻石。他精心策划了完美的抢劫方案，但在执行过程中不断遭遇意外。与此同时，一位执着的警探始终紧盯着他，两人展开智力与意志的较量。影片以平行剪辑展示劫匪的行动和警察的追踪，紧张刺激。该IP被认为是法国黑色电影的代表作，2025年仍被影迷津津乐道。
-
-**12秒改编**：经典黑色电影风格：巴黎街头清晨薄雾弥漫，一个穿风衣的中年男人从监狱大门走出，镜头切换到珠宝店橱窗内钻石项链在聚光灯下闪耀，男人在咖啡馆里研究珠宝店平面图，警探在办公室墙上钉满照片和红线连接的关系图，劫匪穿着西装混入珠宝店客人中观察店员和保安的行动模式，警车在街道巡逻，劫匪在夜色中潜入珠宝店后门，警探突然接到线报开车疾驰而来。
-
-**AI视频Prompt**：French noir crime drama shot on 35mm film with anamorphic lenses for classic cinematic look. Early morning Paris streets in mist, Eiffel Tower silhouette in background, mature man in trench coat and fedora walking from prison gates, weathered face showing determination. Cut to high-end jewelry store: 4K macro shot of diamond necklace rotating on display pedestal, dramatic lighting creating prismatic reflections. Man sitting at corner cafe with espresso, architectural drawings of jewelry store spread on table, making notes with fountain pen. Police detective's office: cork board covered with surveillance photos connected by red string, Paris city map with marked locations. Thief in tailored suit blending with wealthy clientele, observing security guard patrol patterns, mentally timing movements. Police car with flashing blue lights racing through narrow cobblestone streets. Night sequence: thief in black outfit picking lock on rear entrance, professional burglar tools visible, detective arriving on scene. Desaturated color grade with emphasis on blues and shadows, Rembrandt lighting, Dutch angles for tension, smooth dolly shots mixed with handheld urgency.
-
----
-
-## 004
-**改编自**：好莱坞经典动作劫案IP  
-**故事原型**：一群退伍军人因生活所迫决定抢劫联邦储备银行运钞车上的三千万美元。他们利用军事训练的经验制定了周密的作战计划，并在洛杉矶市中心上演了一场震撼的枪战。警方与劫匪之间的火力对抗异常激烈，子弹横飞，场面惊心动魄。该IP以真实的银行抢劫案为蓝本，其枪战场面被认为是影史最真实的之一，2025年依然是动作片的经典范例。
-
-**12秒改编**：纪实风格拍摄：洛杉矶市中心高楼林立，银行运钞车在繁忙街道行驶，几个穿着战术装备持自动步枪的蒙面劫匪突然从面包车冲出包围运钞车，震耳欲聋的枪声响彻街头，路人尖叫逃散，警车从四面八方赶来，劫匪与警察展开激烈枪战，子弹打碎车窗和店铺玻璃，硝烟弥漫，地上散落弹壳，劫匪边战边退向停车场，直升机在空中盘旋追踪，持续的自动武器射击声。
-
-**AI视频Prompt**：Hyperrealistic action thriller shot on 16mm film for documentary authenticity. Downtown Los Angeles daytime: armored bank truck navigating through traffic, business people walking on sidewalks, normal city rhythm. Sudden disruption: white van screeching to stop, masked men in tactical gear and body armor jumping out with automatic rifles, surrounding armored truck. Extreme close-ups of shell casings ejecting and hitting pavement in slow motion. SWAT teams arriving in black SUVs, officers taking cover behind vehicles. 180-degree battlefield geography clearly established, continuous gunfire with visible muzzle flashes and smoke, windshields shattering in cascades of glass, bullet impacts on concrete walls creating dust clouds. Aerial shot from police helicopter showing tactical situation, robbers moving in coordinated military formation toward parking structure. Handheld camera with natural lighting, no music only diegetic sound of gunfire and shouts, visceral authenticity, gritty color palette, Michael Mann-style cinematography with long takes and spatial coherence.
+**AI视频Prompt**：
+```
+高清摄像头实拍拉斯维加斯实景非CG非动画，好莱坞商业片流畅剪辑时尚质感。拉斯维加斯大道夜景建立镜头，赌场酒店霓虹灯光璀璨贝拉吉奥美高梅米拉奇，人流如织赌客川流不息，奢华氛围纸醉金迷。丹尼·欧逊角色四十岁魅力犯罪策划者西装革履优雅冷静，刚从监狱假释出来第一件事策划抢劫，目标泰瑞·班尼迪克三家赌场地下金库同一保险系统存放一点五亿美元现金，动机除了钱还有复仇班尼迪克抢走前妻苔丝。团队召集蒙太奇镜头介绍十一位专家，拉斯提扒手灵巧双手，弗兰克老练经验丰富，莱纳斯年轻扒手天才，巴希尔爆破专家，延和图尔克双胞胎杂技演员，利文斯顿黑客技术宅，索尔老骗子演技精湛，维吉尔电子专家，坐标器械专家，各怀绝技性格迥异。秘密仓库策划会议，墙上挂着金库蓝图三维模型监控摄像头位置安保巡逻路线标注，丹尼详细讲解每个步骤时间精确到秒，团队成员质疑风险讨论备用方案，最终达成一致"要么全赢要么一起进监狱"，击掌承诺。彩排训练搭建金库模型反复演练，计时器倒数练习配合，每个环节出错都重来，团队默契逐渐建立，幽默互动缓解紧张。行动之夜新年前夕赌场人流量最大安保最松懈，各成员换装分头行动。扒手莱纳斯穿西装混入赌场，接近安保主管巧妙偷走门禁卡克隆权限，黑客利文斯顿在监控室外侵入系统，屏幕显示"系统维护"播放循环画面安保看不到真实情况，时间窗口十五分钟。杂技演员延和图尔克藏在运钞车武装押运现金车辆内部，通过安检进入赌场地下金库区域，伪装成运钞员靠近目标。爆破环节巴希尔在通风管道放置EMP电磁脉冲装置，引爆瞬间赌场部分区域断电备用发电启动需要三十秒，金库电子锁失效，团队成员用液压撬棍和等离子切割器打开厚重金库门，内部数百万美元现钞堆积如山分类整理，快速用麻袋装载转移到预设通道。意外插曲班尼迪克本人突然出现金库检查，丹尼被迫现身对峙，实际是计划一部分引开班尼迪克注意力，苔丝前妻在外配合分散安保，班尼迪克以为抓住丹尼但其实金钱已被掉包。逃脱策划安保恢复供电发现金库被盗，紧急封锁所有出口警报响起，SWAT特警到达现场，但丹尼团队早已乔装成特警队员穿防弹衣戴头盔，混在真警察中大摇大摆通过正门，赌场门口混乱无人察觉，十一个人带着装满现金的袋子从不同出口离开汇合。结局镜头团队成员在贝拉吉奥喷泉前集合，夜色中喷泉音乐表演背景灯光辉煌，每个人分到份额庆祝成功但不张扬，丹尼看着班尼迪克的赌场微笑复仇成功，苔丝出现与丹尼和解，开放式结局暗示新冒险。视觉风格时尚商业片剪辑节奏明快，拉斯维加斯霓虹灯光色彩鲜艳，分屏技术展示多线叙事同步行动，特写镜头突出手部动作技术细节，配乐爵士乐和电子乐混合时尚感，探讨犯罪策划智力游戏，团队协作各司其职，友谊与忠诚盗贼道义，复仇动机个人恩怨，系统漏洞利用智胜暴力，明星阵容化学反应，好莱坞黄金时代娱乐片，2001年系列首部开创抢劫片新风格，2025年仍被模仿类型片教科书
+```
 
 ---
 
-## 005
-**改编自**：意大利经典劫车IP  
-**故事原型**：一群专业窃贼计划在意大利都灵抢劫一批黄金，他们精心策划了一场史诗级的抢劫行动，利用三辆迷你车在城市街道、下水道系统和屋顶之间穿梭逃离，与警方展开惊险的追逐。影片最著名的是那场汽车追逐戏，小车在狭窄的街道和台阶上灵活穿行，场面令人印象深刻。该IP的汽车特技在2025年仍被认为是影史经典，多次被致敬和翻拍。
+## 剧本2：意大利任务
 
-**12秒改编**：宽银幕动作拍摄：意大利都灵城市全景阳光明媚，三辆红白蓝经典迷你车在运金车旁整装待发，劫匪快速将金条装入车内，警笛响起，三辆小车同时发动在狭窄街道上高速蜿蜒行驶，警车在后方追赶，迷你车突然转入阶梯飞速冲下台阶，切入地下排水系统在水道中溅起水花疾驰，从下水道出口冲出跃上街道，在屋顶停车场边缘做出惊险特技动作，警察直升机在空中追踪。
+**改编自**：《偷天换日》(The Italian Job) - 经典Mini Cooper追逐抢劫片，2025年仍被车迷津津乐道
 
-**AI视频Prompt**：Classic 1960s heist adventure shot on 35mm with Panavision anamorphic lenses. Establishing shot of Turin, Italy with Alps visible in background, bright Mediterranean sunlight, cobblestone streets and historic architecture. Three iconic Mini Coopers (red, white, blue) lined up near armored truck, thieves in mod 60s clothing loading gold bars into cars, synchronized choreography. Police sirens trigger getaway: dynamic chase through narrow Italian alleys, Mini Coopers taking impossibly tight corners at speed, police Alfa Romeos struggling to follow. Spectacular stunt: cars driving down long outdoor staircases, suspension bouncing, sparks flying. Underground sewers sequence with cars splashing through shallow water, headlights illuminating brick tunnels, echoing engine sounds. Emerging from tunnel onto rooftop parking structure: cars performing coordinated J-turns at building edge, tires smoking, city vista behind them. Police helicopter circling above. Vibrant 60s color palette, practical stunts with no CGI, wide anamorphic compositions showcasing vehicle choreography, upbeat energetic pacing, optimistic adventure tone despite criminal subject.
+**故事原型**：专业盗窃团队在意大利威尼斯成功偷走金砖，但被团队成员史蒂夫背叛，首领约翰被杀，金子被独吞。幸存者查理召集原班人马在洛杉矶复仇，利用交通系统黑客、保险柜专家和爆破高手，策划在市中心制造交通堵塞,用Mini Cooper逃脱。影片以创意追逐场面和团队化学反应著称。该IP在2025年仍是汽车文化与抢劫片的完美结合。
 
+**12秒改编**：
+- **0-3秒**：意大利威尼斯水城运河，盗窃团队从豪宅保险柜中搬出金砖装船，庆祝成功时队友史蒂夫突然拔枪背叛，首领约翰中枪倒下，背叛者带金砖逃跑
+- **3-6秒**：一年后洛杉矶，幸存者查理召集团队复仇，电脑黑客破解城市交通控制系统，制造全市大堵车红绿灯全红,背叛者史蒂夫运送金砖的装甲车被困
+- **6-9秒**：爆破专家在地下炸开道路，三辆红白蓝Mini Cooper小车从地洞冲出，灵活穿梭在拥堵车流和地铁隧道中,装甲车笨重无法追赶，金砖转移到小车
+- **9-12秒**：Mini Cooper在洛杉矶街头高速追逐警车直升机跟踪，穿过楼梯钻入下水道最后冲上正在起飞的飞机，团队欢呼庆祝，史蒂夫被抓交给警方，复仇成功
+
+**AI视频Prompt**：
+```
+高清摄像头实拍意大利威尼斯和洛杉矶实景非CG非动画，动作片追逐戏专业摄影。意大利威尼斯建立镜头，水城运河贡多拉古老建筑桥梁，豪宅保险库场景团队成员约翰查理莱尔史蒂夫斯特拉协作开保险柜，金砖整齐堆放沉重搬运装上运河船只，夜色中庆祝成功喝香槟。背叛时刻史蒂夫眼神突变拔枪指向队友，约翰首领不相信"你在干什么"，史蒂夫冷笑"我要全部金子"开枪，约翰中枪倒入运河消失，其他人震惊史蒂夫带枪威胁控制局面，驾船带金砖逃离，查理等人跳水逃生发誓复仇。一年后洛杉矶查理召集原班人马，约翰女儿斯特拉保险柜专家加入复仇，团队在秘密仓库策划，墙上显示史蒂夫在洛杉矶豪宅生活挥霍金砖，计划利用城市交通系统和Mini Cooper灵活性偷回金子。电脑黑客莱尔技术天才，入侵洛杉矶交通控制中心系统，在电脑前敲击键盘代码滚动，屏幕显示全市红绿灯控制权，执行计划时刻所有路口红灯亮起绿灯关闭，城市瞬间陷入大堵车司机按喇叭混乱，史蒂夫运送金砖的装甲车被困车流动弹不得。爆破行动左耳爆破专家在装甲车必经路线下方地下隧道放置炸药，精确计时引爆，路面塌陷装甲车掉入地下，金砖暴露团队成员迅速转移到三辆Mini Cooper经典小车红色白色蓝色英国旗图案，发动机轰鸣小巧灵活。追逐场面Mini Cooper在洛杉矶市中心狂飙，穿梭拥堵车流缝隙超车，警车笨重无法跟随,直升机空中追踪探照灯扫射，小车钻入地铁隧道在轨道上行驶险象环生，冲出地铁站飞跃楼梯台阶，人行道上行人惊呼闪避。下水道逃脱小车进入下水道系统黑暗潮湿，车灯照亮前方水花四溅，追兵在后紧追不舍，复杂管道系统转弯漂移，最终从出水口冲出。机场结局三辆Mini Cooper冲向私人机场，货机正在滑行准备起飞,小车加速追赶冲上正在升起的舱门斜坡，千钧一发跳入机舱，舱门关闭飞机起飞，团队成员在机舱内欢呼庆祝金砖夺回，斯特拉看着父亲照片"我们做到了爸爸"，史蒂夫被警方抓获押送，复仇成功正义伸张。Mini Cooper文化经典小车成为电影标志，红白蓝三色英伦风格，灵活穿梭大车无法通过的空间，汽车爱好者追捧，实拍追逐特技演员驾驶非全CG，洛杉矶实景街道地铁隧道，威尼斯水城运河拍摄，探讨背叛与复仇主题，团队忠诚对比个人贪婪，女性角色斯特拉继承父亲遗志成长，技术智慧胜过暴力，交通系统漏洞创意利用，节奏明快剪辑流畅，配乐电子乐增强速度感，2003年翻拍1969年经典，Mini Cooper品牌植入成功，2025年仍是车迷和抢劫片影迷必看
+```
+
+---
+
+## 剧本3：惊天魔盗团
+
+**改编自**：《惊天魔盗团》(Now You See Me) - 魔术与抢劫结合创意IP，2025年续集持续开发
+
+**故事原型**：四位魔术师"四骑士"被神秘组织"天眼"召集,在拉斯维加斯表演中当场瞬移到巴黎银行金库偷走数百万欧元,撒向观众。FBI和国际刑警追查却始终被魔术欺骗，每场表演都是精密策划的抢劫。最终揭示他们的真实目的是揭露腐败富豪并加入"天眼"组织。影片将魔术障眼法与犯罪悬疑结合，探讨眼见不一定为实。该IP在2025年仍以其创意和反转著称。
+
+**12秒改编**：
+- **0-3秒**：拉斯维加斯舞台上,四位魔术师向观众承诺"我们将抢劫一家银行",倒计时开始，舞台中央出现巨大金库门装置，观众欢呼以为是魔术表演
+- **3-6秒**：魔术师J走进金库门消失,大屏幕实时显示他出现在巴黎银行金库内部,抓起成捆欧元塞进袋子，巴黎银行真实金库同时警报响起，FBI震惊这不是魔术
+- **6-9秒**：魔术师瞬间传送回舞台,金库门打开他提着装满钱的袋子走出,舞台上空撒钞票雨观众疯狂捡钱,FBI冲上台逮捕但找不到证据所有钱都是道具复制品
+- **9-12秒**：FBI探员罗兹追查四骑士发现每场魔术背后是精密抢劫,催眠师女魔术师在审讯室用心理暗示逃脱,最后揭示神秘组织"天眼"标志，魔术师是现代罗宾汉
+
+**AI视频Prompt**：
+```
+高清摄像头实拍拉斯维加斯舞台和实景非CG非动画，魔术悬疑片视觉特效结合。拉斯维加斯表演场馆建立镜头，米高梅大酒店剧院数千观众座无虚席，舞台灯光璀璨烟雾效果氛围热烈。四骑士登场介绍四位魔术师，J·丹尼尔·阿特拉斯傲慢近景魔术师读心术，梅里特·麦克金尼催眠师心理暗示，杰克·怀尔德街头魔术师扑克牌技巧，亨利·里夫斯逃脱大师开锁专家，四人风格各异但配合默契。开场魔术舞台中央巨大金库门装置银行保险库复刻，J对观众宣布"我们将抢劫一家银行不是魔术而是真实"，观众大笑以为笑话，倒计时六十秒开始大屏幕显示。瞬移表演J走进金库门关闭，大屏幕切换到巴黎银行实时监控画面显示他出现在金库内部，镜头真实拍摄巴黎银行场景法国警察确认真实性，J抓起成捆欧元塞进袋子向摄像头挥手，巴黎警报响起，观众震惊怀疑真假，三十秒后金库门打开J提着钱袋走出舞台欢呼。撒钱场面舞台上空撒下欧元钞票雨，观众疯狂站起捡钱场面混乱，FBI探员罗兹带队冲进剧院逮捕四骑士，上台检查钱袋发现所有钞票都是魔术道具复制品非真钱无法起诉，魔术师微笑"谢谢观赏"，巴黎银行真实被盗数百万欧元消失。FBI追查罗兹探员和国际刑警阿尔玛组队调查，审讯四骑士每人都有不在场证明，梅里特催眠师在审讯室用心理暗示操控警察打开手铐逃脱，杰克扑克牌魔术分散注意力，亨利开锁逃出拘留室，魔术手法欺骗执法。第二场魔术新奥尔良表演四骑士揭露腐败商人银行账户将钱转给受害者，舞台变成银行金库观众每人获得赔偿，FBI包围但魔术师用烟雾和镜子障眼法逃脱，罗兹挫败感"他们总领先一步"。第三场魔术纽约中央公园，四骑士承诺最大魔术"让整栋建筑消失"，目标腐败保险公司总部，实际是数据盗取揭露犯罪证据，建筑用全息投影制造消失假象，警方包围但魔术师早已混入人群。天眼组织神秘揭示，罗兹探员发现魔术师每次抢劫目标都是道德败坏富豪，受神秘组织"天眼"指引，天眼标志全视之眼出现，古老魔术师秘密协会维护正义，四骑士是候选成员通过考验。终极反转罗兹探员本人就是天眼成员，整个追捕是设计好的魔术一部分，引导四骑士成长，最后场景四骑士进入隐秘地点加入天眼组织，新魔术训练开始续集铺垫。视觉效果魔术表演华丽舞台灯光烟雾，瞬移场景快速剪辑混淆真假，催眠术视觉化扭曲画面，扑克牌飞舞慢镜头特写，全息投影高科技手段，探讨魔术本质欺骗与真相，眼见不一定为实认知误导，现代罗宾汉主题劫富济贫，团队协作各展所长，观众参与互动第四堵墙打破，FBI无能为力智力碾压，悬疑反转层层揭秘，续集发展天眼组织扩展，2013年创新抢劫片魔术元素融入，2025年仍受欢迎系列持续
+```
+
+---
+
+## 剧本4：银行劫案
+
+**改编自**：《银行劫案》(Inside Man) - 斯派克·李导演智力抢劫经典，2025年仍是谈判片范本
+
+**故事原型**：纽约曼哈顿银行发生劫持人质案,劫匪首领道尔顿精心策划,要求与警方谈判。女警探弗雷泽负责谈判发现劫匪动机不是钱,而是银行老板隐藏的纳粹秘密。经过48小时对峙,劫匪和人质穿同样衣服混淆身份全部逃脱。影片层层反转探讨道德灰色,劫匪实为正义化身。该IP在2025年仍以其智力游戏和社会批判著称。
+
+**12秒改编**：
+- **0-3秒**：纽约曼哈顿银行营业时间,四名蒙面劫匪冲入大喊"趴下这是抢劫",控制所有人质,首领道尔顿冷静指挥给每个人质穿上与劫匪相同的连体衣戴面具
+- **3-6秒**：警方包围银行,女警探弗雷泽通过电话谈判,道尔顿要求不切实际拖延时间,银行老板紧张秘密联系政治掮客试图隐瞒保险箱里纳粹赃物
+- **6-9秒**：48小时对峙后警方突袭冲入,发现所有人质和劫匪穿同样衣服躺在地上无法区分,审讯每个人都说被关在不同房间,证词矛盾无法定罪全部释放
+- **9-12秒**：一周后弗雷泽重回银行调查,发现密室墙后劫匪道尔顿藏身数天已逃脱,保险箱被打开纳粹钻石戒指留下作为证据,银行老板被捕,道尔顿完美逃脱
+
+**AI视频Prompt**：
+```
+高清摄像头实拍纽约曼哈顿实景银行内部非CG非动画，犯罪悬疑片写实风格。纽约曼哈顿金融区建立镜头，高楼林立华尔街附近银行外观现代玻璃幕墙，营业时间客户办理业务职员工作日常，午后阳光透过窗户宁静假象。劫案开始四名身穿深色连体衣戴白色面具的劫匪突然冲入银行，其中一人举枪对天花板射击引起恐慌大喊"所有人趴下这是抢劫"，客户和职员尖叫惊恐趴地，劫匪迅速控制局面关闭大门拉下百叶窗切断外界视线，其中首领道尔顿声音冷静有条不紊指挥。人质控制道尔顿命令劫匪给每个人质分发与劫匪相同的深蓝色连体衣和白色面具，强迫所有人换装，银行经理抗议被威胁服从，所有人质包括保安职员客户穿上相同服装戴上面具，房间内数十人装扮一致无法区分谁是劫匪谁是人质，道尔顿策略开始显现混淆身份。警方响应纽约警察局接到警报，警车封锁街区狙击手就位直升机盘旋，女警探凯斯·弗雷泽资深谈判专家到达现场指挥，通过银行电话与道尔顿通话建立联系，道尔顿提出要求"准备一架飞机和一千万美元"明显不切实际，弗雷泽经验丰富察觉异常"他在拖延时间真正目的不是钱"。银行老板秘密阿瑟·凯斯银行董事长七十岁得知劫案紧张，秘密联系政治掮客女士白女士权力中间人解决麻烦，透露保险箱中藏有二战时期从纳粹受害者处获得的钻石戒指和文件证据，若曝光家族名誉和财富毁灭，白女士承诺处理进入银行与劫匪和警方周旋。对峙过程48小时谈判道尔顿不断提出变化要求，偶尔释放人质老人孩子维持信任，警方尝试窃听和热成像侦测但银行内部被屏蔽，弗雷泽与道尔顿对话智力交锋相互试探，道尔顿引用哲学和历史暗示道德问题，白女士私下与道尔顿会面交易细节不明。警方突袭48小时最后期限特警队决定强攻，破门而入催泪弹烟雾，冲入银行发现所有人约六十人穿相同连体衣戴面具躺在大厅地上，无法辨认谁是劫匪谁是人质，逐一审讯每个人提供证词，但证词矛盾有人说被关在地下室有人说在二楼会议室，时间线混乱无人承认是劫匪，警方无确凿证据被迫释放所有人，劫匪混在人质中逃脱。调查继续弗雷泽不甘心重新梳理案件，一周后再次进入银行仔细勘查，发现隐藏密室办公室墙后暗门，打开后是小房间配备食物水电视，意识到道尔顿在警方突袭后藏身墙内数天，等警方撤离后从容离开，完美计划每一步都算好。真相揭示银行保险箱被打开，纳粹钻石戒指和文件被留下作为证据，弗雷泽将证据移交司法，银行老板凯斯被捕面临指控家族黑历史曝光，道尔顿真实动机是揭露罪恶而非抢钱现代罗宾汉，弗雷泽复杂心情钦佩对手智慧。尾声道尔顿身份成谜消失人群，弗雷泽收到匿名包裹内含钻石戒指和字条"给你作纪念聪明的对手"，弗雷泽微笑知道永远抓不到他，开放式结局。写实摄影纽约实景银行室内真实，自然光和荧光灯营造真实感，手持摄影跟随角色制造紧张，对话驱动剧情智力较量，探讨道德灰色劫匪动机正义，揭露历史罪恶纳粹赃物，权力阶层腐败政治掮客，警察程序真实谈判策略，完美犯罪计划每步精密，观众随侦探推理反转不断，斯派克·李导演社会批判，2006年智力犯罪片经典，2025年仍是谈判片和抢劫片双料教科书
+```
+
+---
+
+## 剧本5：绝地任务
+
+**改编自**：《绝地任务》(The Rock) - 迈克尔·贝导演动作抢劫经典，2025年仍是动作片爱好者必看
+
+**故事原型**：恐怖分子汉默将军占领恶魔岛监狱,劫持81名游客,威胁用VX毒气导弹攻击旧金山,要求政府赔偿阵亡海军陆战队员家属。FBI化学武器专家古斯比和唯一逃出恶魔岛的英国囚犯梅森组队潜入,拆除毒气弹解救人质。影片动作场面震撼,探讨老兵被遗忘的社会问题。该IP在2025年仍以其爆炸场面和演员表演著称。
+
+**12秒改编**：
+- **0-3秒**：旧金山海湾恶魔岛监狱,前海军陆战队将军汉默带领士兵占领岛屿,劫持81名游客作人质,架起VX毒气导弹对准市区威胁政府赔偿阵亡士兵家属
+- **3-6秒**：FBI紧急召集化学武器专家古斯比博士和唯一逃出恶魔岛的囚犯梅森组队,两人乘潜艇潜入岛屿地下通道,梅森凭记忆带路躲避陷阱
+- **6-9秒**：岛上激烈枪战古斯比和梅森与叛军交火,海豹突击队增援但遭毒气弹攻击全军覆没,两人孤军奋战找到毒气弹发射控制室拆除绿色液体装置
+- **9-12秒**：汉默将军内心挣扎不忍杀无辜平民,部下背叛准备发射,梅森和古斯比击毙叛徒,汉默放弃计划被击毙,人质获救,梅森逃脱重获自由
+
+**AI视频Prompt**：
+```
+高清摄像头实拍旧金山恶魔岛实景非CG非动画，迈克尔·贝爆炸美学动作片。旧金山海湾建立镜头，金门大桥标志性景观，恶魔岛联邦监狱废弃岛屿阴森建筑，曾是最高安保监狱如今旅游景点，游轮载游客参观。占领行动前海军陆战队汉默将军六十岁老兵满脸伤疤，率领部下十五名精英士兵穿军装全副武装，持枪劫持游轮控制八十一名游客，占领恶魔岛监狱牢房关押人质，在监狱广场架设VX神经毒气导弹十五枚对准旧金山市区，通过无线电向政府发出最后通牒"四十八小时内支付一亿美元赔偿金给阵亡士兵家属否则发射毒气"，动机是为被政府抛弃的秘密行动牺牲战友讨回公道，汉默悲愤"他们为国家牺牲却被遗忘家属无人照顾"。政府响应FBI和五角大楼紧急会议，VX毒气一旦释放旧金山数十万人死亡灾难，决定秘密行动解救人质拆除毒气弹，FBI女局长派恩斯特召集专家团队。专家组合化学武器专家斯坦利·古斯比三十岁书呆子FBI实验室研究员从未实战紧张，唯一逃出恶魔岛的囚犯约翰·梅森六十岁英国特工被囚三十年越狱成功，政府以自由为条件要求他带路潜入恶魔岛利用当年逃生路线，两人性格对立古斯比守规矩梅森玩世不恭，搭档化学反应。潜入行动夜晚海豹突击队和古斯比梅森乘潜艇接近恶魔岛，从水下通道进入，梅森凭三十年前记忆带路穿越锅炉房下水道迷宫般结构，陷阱机关火焰喷射器，古斯比险些丧命梅森救他"跟紧我书呆子"，逐渐建立信任。发现与交火进入监狱内部发现人质被关押，叛军巡逻海豹突击队与叛军交火，激烈枪战监狱走廊子弹横飞，爆炸场面迈克尔·贝标志性慢动作火焰翻滚，叛军发射毒气弹绿色气体扩散，海豹队员中毒痛苦倒地死亡惨烈，古斯比和梅森侥幸逃脱意识到只能靠自己。寻找导弹两人潜入监狱深处寻找VX导弹控制室，梅森开锁技能打开封锁门，古斯比用化学知识识别毒气弹存放位置，发现十五枚绿色液体装置导弹，开始拆除需要精密操作一个失误全部引爆。内部分歧汉默将军手下部分士兵质疑行动"我们是军人不是恐怖分子"，副手弗赖伊上尉极端分子坚持发射"政府不会妥协必须执行"，汉默犹豫不忍杀无辜平民内心挣扎，弗赖伊发动兵变夺取控制权准备真正发射导弹，汉默阻止被枪击受伤，忠诚士兵内战。最终对决古斯比和梅森闯入控制室与弗赖伊对峙，枪战激烈导弹倒计时启动，梅森格斗技巧击倒敌人，古斯比最后一秒拆除毒气弹绿色液体泄漏但未爆炸，弗赖伊被击毙，汉默将军临死前对古斯比说"告诉世界我们的战友没有被遗忘"死去，悲剧英雄。解救与逃脱人质获救FBI进入恶魔岛，古斯比被誉为英雄，梅森趁混乱逃脱FBI追捕，古斯比放他走"你自由了"，梅森消失人群与女儿团聚，政府秘密赔偿阵亡士兵家属，古斯比与女友和好。视觉风格迈克尔·贝爆炸美学慢镜头火焰橙色调，恶魔岛实景拍摄监狱阴森压迫，旧金山城市景观航拍，动作戏枪战爆炸飞车，摇滚配乐Hans Zimmer史诗感，探讨老兵被遗忘社会问题，政府背叛与个人正义，道德灰色汉默动机正当手段错误，双雄搭档书呆子和硬汉对比，父女亲情梅森与女儿久别重逢，1996年动作片黄金时代，肖恩·康纳利尼古拉斯·凯奇化学反应，2025年仍是动作片爱好者必看经典炸裂场面
+```
