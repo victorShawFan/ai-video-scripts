@@ -1,50 +1,94 @@
 # 间谍题材剧本
 
-## 001
-**改编自**：经典英国特工IP  
-**故事原型**：英国情报机构的顶级特工执行危险任务，阻止邪恶组织利用卫星武器摧毁硅谷。特工必须潜入敌人的海上基地，破坏他们的阴谋。任务中他驾驶各种高科技载具，使用尖端间谍装备，与美艳女特工合作，在枪林弹雨中完成不可能的任务。该IP是间谍片的鼻祖，2025年仍是全球最具影响力的特工系列之一。
+## 剧本1：特工黄金眼
 
-**12秒改编**：电影级别拍摄：特工身穿定制西装走进豪华赌场，眼神锐利观察四周，暗中与联络人交换情报，突然发现敌方杀手，迅速展开追逐穿越人群，跳上改装跑车启动各种隐藏武器，在蜿蜒山路上与敌车激烈较量，驾车冲下悬崖张开降落伞滑翔到海面，潜入敌人的海上石油钻井平台，在控制室里与敌方特工近身肉搏，最后启动自毁装置在爆炸中逃生。
+**改编自**：英国特工经典题材
 
-**AI视频Prompt**：Sophisticated spy thriller shot on 35mm with anamorphic lenses for cinematic wide shots. Elegant agent in bespoke tuxedo entering Monte Carlo casino, chandelier lighting reflecting off champagne glasses, roulette wheels spinning, crowd of wealthy patrons. Close-up of agent's eyes scanning room, subtle exchange of envelope with contact. Sudden tension: assassin revealed in mirror reflection, chase sequence through crowded gaming floor, parkour moves over tables, cards flying. Cut to silver sports car with hidden gadgets: machine guns emerging from headlights, tire spikes deploying, oil slick release. Mountain road chase at sunset, hairpin turns, vehicles weaving between guardrails. Dramatic stunt: car driving off cliff edge, parachute deploying from trunk in slow motion, graceful descent to ocean. Underwater approach to offshore oil platform at night, agent in diving gear. Interior infiltration: high-tech control room with screens showing satellite imagery, hand-to-hand combat with precision choreography. Explosion sequence with agent escaping on speedboat, fireball erupting behind. Classic color grading with rich contrast, dynamic camera movements mixing steady operator shots with intense handheld action, iconic brass musical cues.
+**故事原型**：英国情报机构的王牌特工接到紧急任务，邪恶组织计划用卫星武器摧毁硅谷的科技中心。特工必须潜入敌人隐藏在加勒比海的秘密基地破坏阴谋。任务中他驾驶装满黑科技的跑车，使用Q博士提供的各种间谍装备，与神秘的女特工联手合作。在枪林弹雨和爆炸中完成看似不可能的任务，展现优雅从容的特工风范。
 
----
+**12秒改编**：
+- **0-3秒**：特工身穿定制黑色燕尾服走进蒙特卡洛豪华赌场，水晶吊灯反射香槟酒杯光芒，眼神锐利扫视赌桌轮盘旋转人群
+- **3-6秒**：暗中与联络人交换情报信封，突然镜子里发现刺客身影，追逐穿越拥挤赌场跑酷翻越赌桌纸牌飞舞
+- **6-9秒**：跳上银色改装跑车启动隐藏武器系统，车头机枪展开轮胎钉刺部署油污释放，蜿蜒山路日落追车急转弯车辆穿梭护栏间
+- **9-12秒**：戏剧性特技车从悬崖边驶出，后备箱降落伞展开慢镜头优雅下降至海面，潜入海上石油平台最后时刻逃离大爆炸
 
-## 002
-**改编自**：美国动作特工IP  
-**故事原型**：一名精锐特工被诬陷为叛徒，为了洗清罪名他必须深入敌后窃取绝密名单。他率领小队执行各种不可能完成的渗透任务，经常需要在摩天大楼外壁攀爬、从飞机上跳伞、在高速行驶的列车顶部格斗。每次任务都充满创意和惊险的特技表演。该IP以实拍特技闻名，2025年依然是动作片的标杆。
-
-**12秒改编**：纪实动作拍摄：特工团队在作战室听取任务简报，倒计时开始，镜头切换到迪拜哈利法塔外墙，特工戴着特殊手套在玻璃幕墙外攀爬，强风吹拂，下方是几百米高空，手套突然失灵开始下滑，千钧一发抓住窗沿荡入大楼内部，在服务器机房里快速下载数据，警报响起，冲向窗口纵身跃出跳向相邻大楼，在空中展开滑翔翼滑翔到地面。
-
-**AI视频Prompt**：Visceral action thriller shot on IMAX cameras for maximum clarity and scale. Mission briefing room: agents in tactical gear reviewing holographic building schematics, tablet screens showing security patterns, tense focus on faces. Cut to establishing shot of Burj Khalifa at dusk, crane up showing enormous height. Extreme wide shot of agent in black suit scaling glass exterior, special gecko gloves adhering to windows, wind whipping at clothing. POV shot looking down - dizzying height, ant-sized cars below. Close-up of glove mechanism failing, sparks and error lights, panic in eyes. Freefall moment, hand desperately catching window ledge, swing into building through ventilation shaft. Server room: rapid handheld shots of USB drive uploading data, progress bar racing, sweat dripping, alarms blaring red. Pursuit: sprint to window, running leap into void. Wingsuit deployment, aerial footage of glide between skyscrapers. Naturalistic color grading, practical effects, authentic locations, aggressive handheld during action, smooth steadicam for preparation moments, emphasis on real performer doing real stunts.
-
----
-
-## 003
-**改编自**：冷战经典间谍IP  
-**故事原型**：冷战时期一名英国情报官员发现苏联间谍潜伏在军情六处最高层。他必须通过层层调查找出这个代号为"地鼠"的双面间谍。整个过程充满尔虞我诈、暗中监视和心理博弈，每个同事都可能是叛徒。影片节奏沉稳，气氛压抑，展现真实的谍报工作。该IP改编自经典小说，2025年被认为是最写实的间谍片之一。
-
-**12秒改编**：复古风格拍摄：1970年代伦敦阴雨绵绵，军情六处总部外景，特工在昏暗办公室里翻阅大量机密档案，墙上钉着嫌疑人照片，用红线连接关系网，在咖啡馆里与线人秘密会面交换情报，跟踪可疑目标穿过伦敦街道，在公共电话亭里打加密电话，深夜潜入同事办公室安装窃听器，在录音室里反复收听监听磁带，最后在圣诞派对上锁定目标人物的眼神。
-
-**AI视频Prompt**：Cold War espionage drama shot on 16mm film for authentic 1970s aesthetic. Rainy London establishing shots: red telephone boxes, double-decker buses, period vehicles. MI6 headquarters exterior: brutalist architecture, gray concrete. Interior office: brown wood paneling, flickering fluorescent lights, agent hunched over files stamped "Top Secret", smoke from cigarette curling in desk lamp light. Wall covered with black-and-white surveillance photos connected by red yarn, forming conspiracy web. Cafe meeting: two men at corner table speaking in hushed tones, money and documents sliding under table. Tailing sequence: following suspect through crowded Tube station, staying three persons behind, handheld camera maintaining distance. Phone booth: agent dialing rotary phone, speaking in code, condensation on glass walls. Break-in: picking lock on colleague's door with tools, installing reel-to-reel listening device under desk. Surveillance room: headphones on, listening to tape recording, taking meticulous notes. Christmas party finale: crowded room, agent's eyes meeting suspect's across room in moment of recognition. Desaturated color palette heavy on browns, grays, and greens, naturalistic lighting, static camera compositions suggesting surveillance, period-accurate props and costumes, melancholic atmosphere.
+**AI视频Prompt**：
+```
+高清实拍使用三十五毫米变形镜头拍摄精致间谍惊悚片呈现电影级宽银幕画面。优雅特工穿定制燕尾服进入蒙特卡洛赌场水晶吊灯照明反射香槟杯轮盘旋转富裕赌客人群。特写特工眼睛扫视房间信封与联系人微妙交换。突然紧张镜子反射中显示刺客追逐序列穿过拥挤赌场跑酷动作翻越赌桌纸牌飞舞。切换至配备隐藏装备的银色跑车车头机枪从大灯伸出轮胎钉刺部署油污释放。山路追逐日落发夹弯车辆在护栏间穿梭。戏剧特技车从悬崖边驶出降落伞从后备箱展开慢镜头优雅下降至海洋。水下接近夜间海上石油平台特工穿潜水装备。内部渗透高科技控制室屏幕显示卫星图像精准编排徒手格斗。爆炸序列特工乘快艇逃离身后火球爆发。经典色彩校正丰富对比动态摄影机运动混合稳定操作员镜头与激烈手持动作标志性铜管音乐提示
+```
 
 ---
 
-## 004
-**改编自**：美国惊悚间谍IP  
-**故事原型**：一名患有记忆障碍的前特工在地中海海滩醒来，不记得自己是谁，但拥有超强的格斗和生存技能。他发现自己被各国情报机构追杀，必须一边逃亡一边拼凑身份真相。在欧洲各大城市间穿梭逃亡的过程中，他展现出训练有素的战斗本能，从汽车追逐到近身格斗无所不能。该IP以写实的动作设计闻名，2025年仍是谍战片的经典。
+## 剧本2：不可能的任务
 
-**12秒改编**：手持纪实拍摄：特工在酒店房间里惊醒一身冷汗，镜子里看到自己背部的弹孔伤疤，发现护照上有多个假身份，突然听到走廊脚步声，迅速组装武器躲在门后，杀手破门而入展开激烈近身搏斗，用身边物品当武器，打斗快速凶狠，制服杀手后逃出酒店，在巴黎街头与追兵展开汽车追逐，小型车在狭窄巷道里灵活穿梭，利用地形甩开追击者。
+**改编自**：美国动作特工题材
 
-**AI视频Prompt**：Kinetic espionage action shot on handheld 35mm for documentary realism. Hotel room dawn: shirtless man jolting awake in sweat-soaked sheets, disoriented, stumbling to bathroom mirror examining scars on muscular back - old bullet wounds, surgical marks. Discovering multiple passports with different names, cash in various currencies, untraceable phone. Sound design: muffled footsteps in hallway, safety being clicked off weapon. Rapid assembly of handgun from parts hidden in various locations. Positioning behind door, controlled breathing. Door kicked open: CQC combat in confined space, brutal efficient movements, no wasted motion, using lamp as weapon, throwing objects, close-quarters grappling. Shaky camera following action, practical impacts. Escape: running down stairwell, emerging onto Paris street at dawn. Car chase through narrow European alleys: compact sedan taking corners on two wheels, side mirrors clipping walls, pursuing sedans unable to match tight turns. Street market chaos: fruit stands exploding, pedestrians diving for cover. Naturalistic lighting, desaturated color, 24fps for judder effect giving tactile reality, aggressive handheld operator following action, practical stunts with minimal rehearsal for authentic chaos, European locations shot guerrilla style.
+**故事原型**：精英特工被诬陷为叛徒，为洗清罪名必须深入敌后窃取绝密间谍名单。他率领小队执行各种不可能完成的渗透任务，经常需要在迪拜哈利法塔外壁攀爬、从飞机上无伞跳伞、在时速三百公里的列车顶部格斗。每次任务都充满创意十足的特技表演，全部采用真人实拍展现极限动作的真实震撼。
+
+**12秒改编**：
+- **0-3秒**：特工团队在作战室听取任务简报平板电脑显示建筑全息图，倒计时开始任务不可能但必须完成
+- **3-6秒**：迪拜哈利法塔外墙特工戴特殊壁虎手套在玻璃幕墙外攀爬，强风吹拂衣服下方几百米高空俯视角度蚂蚁大小汽车
+- **6-9秒**：手套突然失灵开始下滑火花和错误灯闪烁，千钧一发手抓住窗沿荡入大楼通风井，服务器机房快速上传数据U盘进度条汗水滴落警报响起
+- **9-12秒**：追击冲向窗口奔跑跃入虚空，翼装展开空中滑翔镜头在摩天大楼间穿梭滑翔至地面
+
+**AI视频Prompt**：
+```
+高清实拍使用IMAX摄影机拍摄极限动作惊悚片追求最大清晰度和规模感。任务简报室特工们穿战术装备审查全息建筑示意图平板屏幕显示安全模式紧张专注面部表情。切换至黄昏迪拜哈利法塔建立镜头摇升展示巨大高度。极端广角镜头特工黑西装攀爬玻璃外墙特殊壁虎手套粘附窗户风吹打衣服。主观视角俯视令人眩晕高度下方蚂蚁大小汽车。特写手套机制失灵火花错误灯眼中恐慌。自由落体时刻手绝望抓住窗沿荡入建筑通风井。服务器机房快速手持镜头U盘上传数据进度条竞速汗水滴落警报红色闪烁。追击冲刺至窗口奔跑跃入虚空。翼装展开空中镜头在摩天大楼间滑翔。自然色彩校正实用效果真实地点激进手持动作流畅斯坦尼康准备时刻强调真实表演者做真实特技
+```
 
 ---
 
-## 005
-**改编自**：韩国特工IP  
-**故事原型**：朝鲜和韩国的两名特工在第三国执行任务时被迫合作对抗共同的敌人。两人原本互相敌对，但在生死考验中逐渐建立了信任和友谊。他们利用各自的专长协同作战，在异国他乡展开惊心动魄的追踪和暗杀行动。影片探讨了南北关系和特工的人性挣扎。该IP在2025年仍然是亚洲间谍片的代表作。
+## 剧本3：谍影迷踪
 
-**12秒改编**：动作悬疑拍摄：柏林街头深夜，两个东亚面孔的特工在暗巷里初次对峙拔枪相向，突然第三方杀手出现两人被迫联手应敌，配合默契的战斗动作展现专业训练，击退敌人后在安全屋里紧张对话，通过加密电脑追踪目标行踪，在繁忙火车站里跟踪目标穿过人群，狙击手在屋顶架设武器瞄准目标，另一人在地面准备接应，目标突然警觉，行动开始。
+**改编自**：冷战经典间谍题材
 
-**AI视频Prompt**：Tense international espionage thriller shot on Alexa Mini with Zeiss Master Primes. Berlin nighttime: wet cobblestone streets reflecting neon signs, two Asian operatives in dark clothing facing each other in shadowed alley, weapons drawn, standoff tension. Sudden third party ambush: muzzle flashes from both ends of alley, forced alliance. Synchronized combat choreography: one providing covering fire while other advances, tactical hand signals, military precision. Safe house: sparse apartment, single hanging bulb, operatives sitting across table with laptop between them showing satellite tracking, distrust evident in body language. Train station surveillance: handheld following targets through crowd, earpieces for communication, maintaining distance. Rooftop preparation: sniper assembling rifle, scope view POV showing target in crosshairs hundreds of meters away. Ground operative ready to intercept, hidden pistol. Target suddenly looking up - moment of recognition - mission compromised. Quick cuts between positions. Moody color grading emphasizing blues and teals, practical locations in European setting, mix of steady operator for surveillance and dynamic handheld for action, Korean and international aesthetics blending, focus on character dynamics amid action.
+**故事原型**：冷战高峰期，英国情报官员发现苏联间谍潜伏在军情六处最高层。他必须通过层层调查找出这个代号"地鼠"的双面间谍。整个过程充满尔虞我诈暗中监视和心理博弈，每个同事都可能是叛徒。在七十年代伦敦阴雨绵绵的街道上，特工翻阅机密档案、跟踪可疑目标、安装窃听器，用最传统的间谍手段拼凑真相。
 
+**12秒改编**：
+- **0-3秒**：一九七零年代伦敦阴雨连绵军情六处总部粗野主义建筑，特工在昏暗办公室翻阅机密档案台灯照明香烟烟雾缭绕
+- **3-6秒**：墙上钉满黑白监控照片用红线连接形成阴谋网络，咖啡馆秘密会面两人角落桌低声交谈钱和文件在桌下滑动
+- **6-9秒**：跟踪嫌疑人穿过拥挤地铁站保持三人距离手持摄影机，公共电话亭拨打旋转电话用暗语交谈玻璃墙凝结水汽
+- **9-12秒**：深夜潜入同事办公室用工具撬锁在桌下安装卷轴窃听器，圣诞派对拥挤房间特工与嫌疑人眼神交汇识别瞬间
+
+**AI视频Prompt**：
+```
+高清实拍使用十六毫米胶片拍摄冷战间谍剧呈现真实七十年代美学。伦敦阴雨建立镜头红色电话亭双层巴士时代车辆。军情六处总部外观粗野主义建筑灰色混凝土。内部办公室棕色木镶板闪烁荧光灯特工伏案文件盖"绝密"章办公桌台灯照明香烟烟雾缭绕。墙上覆盖黑白监控照片用红线连接形成阴谋网络。咖啡馆会面角落桌两人低声交谈钱和文件桌下滑动。跟踪序列尾随嫌疑人穿过拥挤地铁站保持三人距离手持摄影机维持距离。电话亭拨打旋转电话用暗语交谈玻璃墙凝结水汽。闯入用工具撬同事门锁在桌下安装卷轴录音窃听器。监控室戴耳机听录音带仔细记录笔记。圣诞派对压轴拥挤房间特工眼神与嫌疑人交汇房间识别瞬间。去饱和色调偏重棕色灰色绿色自然照明静态摄影机构图暗示监控时代准确道具和服装忧郁氛围
+```
+
+---
+
+## 剧本4：谍影重重
+
+**改编自**：美国惊悚逃亡题材
+
+**故事原型**：前特工在地中海海滩醒来患有严重记忆障碍，不记得自己是谁但拥有超强格斗和生存技能。他发现自己被各国情报机构追杀，必须一边逃亡一边拼凑身份真相。在巴黎、柏林、莫斯科等欧洲城市间穿梭逃亡，展现训练有素的战斗本能。从近身格斗到汽车追逐，从跑酷逃生到即兴武器使用，所有动作设计追求写实和冲击力。
+
+**12秒改编**：
+- **0-3秒**：酒店房间黎明特工惊醒一身冷汗，镜子里看到背部弹孔伤疤，发现多本不同名字护照各国货币无法追踪手机
+- **3-6秒**：突然听到走廊脚步声武器保险打开，迅速组装手枪躲在门后，杀手破门而入展开激烈近身搏斗用台灯当武器打斗快速凶狠
+- **6-9秒**：制服杀手后逃出酒店，巴黎街头黎明与追兵展开汽车追逐小型轿车在狭窄巷道灵活穿梭侧镜刮墙水果摊爆炸
+- **9-12秒**：利用地形优势甩开追击者，躲入地铁站人群中消失，追兵无法匹配紧密转弯街市混乱行人躲避
+
+**AI视频Prompt**：
+```
+高清实拍使用手持三十五毫米拍摄动感间谍动作片追求纪录片现实主义。酒店房间黎明赤裸上身男子从汗湿床单惊醒迷失方向踉跄至浴室镜子检查肌肉背部旧弹伤手术痕迹。发现多本护照不同名字各国货币无法追踪手机。声音设计走廊低沉脚步武器保险点击。从隐藏位置快速组装手枪。门后定位控制呼吸。门被踢开狭窄空间近距离格斗残酷高效动作不浪费用台灯当武器投掷物品近距离扭打。抖动摄影机跟随动作实用冲击。逃生跑下楼梯涌现巴黎街道黎明。汽车追逐穿过狭窄欧洲小巷紧凑轿车极限转弯侧镜刮墙街市水果摊爆炸行人跳开。自然照明去饱和色彩二十四帧每秒抖动效果给予触觉真实激进手持操作员跟随动作实用特技最少彩排真实混乱欧洲地点游击风格拍摄
+```
+
+---
+
+## 剧本5：柏林谍影
+
+**改编自**：韩国特工合作题材
+
+**故事原型**：朝鲜和韩国的两名顶级特工在柏林执行各自的秘密任务时意外相遇。两人原本互为死敌，但当第三方国际恐怖组织出现威胁双方利益时，他们被迫放下成见合作对抗共同敌人。在异国他乡的追踪暗杀行动中，两人逐渐从敌对走向理解甚至建立了战友情谊。影片探讨了南北关系、国家忠诚与个人情感的复杂关系。
+
+**12秒改编**：
+- **0-3秒**：柏林街头深夜两个东亚面孔特工在暗巷初次对峙拔枪相向，突然第三方杀手从两端出现被迫联手应敌
+- **3-6秒**：配合默契的战斗动作展现专业训练一人掩护射击另一人推进战术手势，击退敌人后在安全屋紧张对话通过加密电脑追踪目标
+- **6-9秒**：繁忙火车站跟踪目标穿过人群耳机通讯保持距离，狙击手在屋顶架设武器瞄准镜视角目标交叉准星数百米外
+- **9-12秒**：地面特工准备接应隐藏手枪，目标突然警觉四处张望发现异常，行动暴露快速切换各位置任务开始
+
+**AI视频Prompt**：
+```
+高清实拍使用Alexa Mini配蔡司Master Prime镜头拍摄紧张国际间谍惊悚片。柏林夜景湿润鹅卵石街道反射霓虹招牌两名亚洲特工深色衣服在阴影小巷面对面武器拔出对峙紧张。突然第三方伏击小巷两端枪口闪光强制联盟。同步战斗编排一人提供掩护射击另一人推进战术手势军事精度。安全屋简陋公寓单个悬挂灯泡特工坐桌对面笔记本电脑显示卫星追踪肢体语言明显不信任。火车站监控手持跟随目标穿过人群耳机通讯保持距离。屋顶准备狙击手组装步枪瞄准镜主观视角交叉准星中目标数百米外。地面特工准备拦截隐藏手枪。目标突然抬头识别瞬间任务暴露。各位置快速切换。情绪色彩校正强调蓝色和青色实用地点欧洲设定混合稳定操作员监控与动态手持动作韩国和国际美学融合专注行动中人物动态
+```
